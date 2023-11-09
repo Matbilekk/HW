@@ -60,7 +60,7 @@ export const HW1 = () => {
       id: 8,
       name: "Robert",
       age: 4,
-      address: { street: "876 Spruce Way", city: "San Francisco" },
+      address: { street: "877 Spruce Way", city: "San Francisco" },
     },
     {
       id: 9,
